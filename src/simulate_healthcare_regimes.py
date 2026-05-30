@@ -1,4 +1,3 @@
-(venv) pi@rpi4B-ma-00:~/cloud $ cat simulate_healthcare_regimes.py
 # simulate_healthcare_regimes.py
 # Discrete-event simulation for event-driven regime shifts in an M/M/c queue
 # Generates synthetic datasets: event logs, timelines, and KPI summary tables.
@@ -459,4 +458,3 @@ def run_experiments(
 
 if __name__ == "__main__":
     run_experiments()
-(venv) pi@rpi4B-ma-00:~/cloud $
