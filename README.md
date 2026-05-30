@@ -81,6 +81,18 @@ Key performance indicators include:
 The Python implementation supporting the proposed event-driven healthcare regime framework has been made publicly available to improve transparency, reproducibility, and future research extensions.
 
 ---
+## Citation
+
+If you use this repository, please cite:
+
+Papakyriakou, D. (2026).
+
+Event-Driven Stochastic Regime Shifts in Adaptive Healthcare Systems:
+Modelling Overload, Recovery, and Policy Response.
+
+Book Chapter submitted to:
+Stochastic Processes for Adaptive Healthcare Systems
+(IGI Global Scientific Publishing).
 
 ## Author
 
