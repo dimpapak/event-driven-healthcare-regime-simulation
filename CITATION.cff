@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Event-Driven Healthcare Regime Simulation"
+type: software
+authors:
+  - family-names: "Papakyriakou"
+    given-names: "Dimitrios"
+    orcid: "https://orcid.org/0000-0001-9745-0857"
+version: "1.0.0"
+date-released: "2026-09-18"
+repository-code: "https://github.com/dimpapak/event-driven-healthcare-regime-simulation"
+url: "https://github.com/dimpapak/event-driven-healthcare-regime-simulation"
+license: "MIT"
+keywords:
+  - "healthcare simulation"
+  - "discrete-event simulation"
+  - "queueing theory"
+  - "stochastic modelling"
+  - "regime shifts"
+  - "adaptive capacity"
+  - "overload"
+  - "recovery dynamics"
