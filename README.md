@@ -108,12 +108,15 @@ Machine-readable citation metadata are provided in `CITATION.cff`. The software 
 
 Papakyriakou, D. (2026). *Event-Driven Stochastic Regime Shifts in Adaptive Healthcare Systems: Modelling Overload, Recovery, and Policy Response*. In *Stochastic Processes for Adaptive Healthcare Systems*. IGI Global Scientific Publishing.
 
-The final chapter DOI and bibliographic details will be added when formally assigned by the publisher.
+Chapter DOI: https://doi.org/10.4018/979-8-3373-9705-4.ch003
+
+Book DOI: https://doi.org/10.4018/979-8-3373-9705-4
+
+Publication status: Forthcoming (publisher proofing completed; publication pending).
 
 ## Author
 
 Dimitrios Papakyriakou  
-PhD Candidate — Hellenic Mediterranean University  
 Independent Researcher in Neuromorphic Computing and Edge AI Systems  
 ORCID: https://orcid.org/0000-0001-9745-0857
 
