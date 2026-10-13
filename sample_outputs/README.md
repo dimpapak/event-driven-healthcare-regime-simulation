@@ -16,3 +16,15 @@ and publication figures:
 
 These outputs demonstrate overload emergence, regime transitions,
 policy response delays, and recovery dynamics.
+
+## Relation to the chapter
+
+The reference results are those reported in the chapter (Table 2 and Figures 2–4). The files in this directory are a representative stochastic realization of the same experimental workflow and parameter grid; individual values may differ slightly from the published figures, as described in the Reproducibility Note of the main README.
+
+File-to-chapter mapping:
+
+- `fig1_timeline.png` → Chapter Figure 2
+- `fig2_heatmap_tover.png` → Chapter Figure 3
+- `fig3_recovery_vs_tau.png` → Chapter Figure 4
+
+Figure 1 (simulation workflow, Algorithm 1) appears in the chapter only.
