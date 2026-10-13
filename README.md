@@ -112,7 +112,7 @@ Chapter DOI: https://doi.org/10.4018/979-8-3373-9705-4.ch003
 
 Book DOI: https://doi.org/10.4018/979-8-3373-9705-4
 
-Publication status: Forthcoming (publisher proofing completed; publication pending).
+Publication status: Accepted and finalized (proofs completed October 2026). Projected release: December 2026.
 
 ## Author
 
