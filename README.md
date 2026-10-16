@@ -106,13 +106,15 @@ Machine-readable citation metadata are provided in `CITATION.cff`. The software 
 
 ### Associated Book Chapter
 
-Papakyriakou, D. (2026). *Event-Driven Stochastic Regime Shifts in Adaptive Healthcare Systems: Modelling Overload, Recovery, and Policy Response*. In *Stochastic Processes for Adaptive Healthcare Systems*. IGI Global Scientific Publishing.
+Papakyriakou, D. (2027). *Event-Driven Stochastic Regime Shifts in Adaptive Healthcare Systems: Modelling Overload, Recovery, and Policy Response*. In *Stochastic Processes for Adaptive Healthcare Systems* (Chapter 3). IGI Global Scientific Publishing. https://doi.org/10.4018/979-8-3373-9705-4.ch003
 
 Chapter DOI: https://doi.org/10.4018/979-8-3373-9705-4.ch003
 
 Book DOI: https://doi.org/10.4018/979-8-3373-9705-4
 
-Publication status: Accepted and finalized (proofs completed October 2026). Projected release: December 2026.
+ISBN13: 979-8-3373-9705-4 · Softcover ISBN13: 979-8-3373-9706-1 · EISBN13: 979-8-3373-9707-8
+
+Publication status: Published (online, October 2026; © 2027).
 
 ## Author
 

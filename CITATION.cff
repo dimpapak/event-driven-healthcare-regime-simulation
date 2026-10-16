@@ -20,3 +20,18 @@ keywords:
   - "adaptive capacity"
   - "overload"
   - "recovery dynamics"
+references:
+  - type: book-section
+    title: "Event-Driven Stochastic Regime Shifts in Adaptive Healthcare Systems: Modelling Overload, Recovery, and Policy Response"
+    authors:
+      - family-names: "Papakyriakou"
+        given-names: "Dimitrios"
+        orcid: "https://orcid.org/0000-0001-9745-0857"
+    collection-title: "Stochastic Processes for Adaptive Healthcare Systems"
+    collection-type: book
+    section: "3"
+    publisher:
+      name: "IGI Global Scientific Publishing"
+    year: 2027
+    doi: "10.4018/979-8-3373-9705-4.ch003"
+    isbn: "979-8-3373-9705-4"
